@@ -29,6 +29,3 @@ if __name__=='__main__':
     docx_name = sys.argv[1]
     pdf_name = sys.argv[2]
     docx_to_pdf(docx_name, pdf_name)
-
-
-
