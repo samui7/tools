@@ -6,7 +6,7 @@ import sys
 
 def fetch(image_id):
 
-    # contruct url
+    # construct url
     url = 'https://www.pixiv.net/member_illust.php?mode=medium&illust_id='
     url += image_id
     url_response = request.urlopen(url)
