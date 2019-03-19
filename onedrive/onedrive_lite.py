@@ -2,6 +2,8 @@
 # Reference: https://github.com/OneDrive/onedrive-sdk-python/tree/master/examples
 # For more functions, follow the link above
 
+# pip install onedrivesdk
+
 from __future__ import unicode_literals
 
 import onedrivesdk
