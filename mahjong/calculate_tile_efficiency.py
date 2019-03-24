@@ -58,6 +58,6 @@ class Calculator():
 
 
 root = Tk()
-root.title("Tile Efficiency Calculator)
+root.title("Tile Efficiency Calculator")
 cal = Calculator(root)
 root.mainloop()
